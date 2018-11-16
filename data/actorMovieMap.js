@@ -1,0 +1,25 @@
+const map = [
+  { movieId: 1, actorId: 1 },
+  { movieId: 1, actorId: 3 },
+  { movieId: 1, actorId: 4 },
+  { movieId: 1, actorId: 5 },
+  { movieId: 2, actorId: 6 },
+  { movieId: 2, actorId: 5 },
+  { movieId: 3, actorId: 2 },
+  { movieId: 3, actorId: 3 },
+  { movieId: 4, actorId: 5 },
+  { movieId: 4, actorId: 6 },
+  { movieId: 5, actorId: 1 },
+  { movieId: 5, actorId: 2 },
+  { movieId: 5, actorId: 7 },
+  { movieId: 6, actorId: 7 },
+  { movieId: 6, actorId: 4 },
+  { movieId: 7, actorId: 2 },
+  { movieId: 7, actorId: 1 },
+  { movieId: 7, actorId: 8 },
+  { movieId: 5, actorId: 9 },
+  { movieId: 8, actorId: 9 },
+  { movieId: 8, actorId: 8 },
+];
+
+export default map;
