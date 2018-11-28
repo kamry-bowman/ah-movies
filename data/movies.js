@@ -9,4 +9,4 @@ const movies = [
   { id: 8, title: 'Midnight Cowboy', studioId: 6 },
 ];
 
-export default movies;
+module.exports = movies;

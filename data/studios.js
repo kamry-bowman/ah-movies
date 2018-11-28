@@ -8,4 +8,4 @@ const studios = [
   { id: 6, name: 'United Artists' },
 ];
 
-export default studios;
+module.exports = studios;

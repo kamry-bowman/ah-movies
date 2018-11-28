@@ -22,4 +22,4 @@ const map = [
   { movieId: 8, actorId: 8 },
 ];
 
-export default map;
+module.exports = map;

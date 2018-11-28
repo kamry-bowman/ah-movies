@@ -10,4 +10,4 @@ const actors = [
   { id: 9, name: 'Dustin Hoffman' },
 ];
 
-export default actors;
+ module.exports = actors;
